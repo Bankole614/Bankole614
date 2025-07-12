@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Ayobami Bankole
+### 👋 Hi there, I'm Emmanuel Bankole
 
 I'm a passionate Frontend Developer with a strong interest in building beautiful, responsive, and user-friendly applications. Whether it's web or mobile, I enjoy transforming ideas into real, interactive experiences using modern tools and frameworks.
 
