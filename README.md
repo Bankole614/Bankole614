@@ -21,10 +21,8 @@ I'm a passionate Frontend Developer with a strong interest in building beautiful
 
 
 
-> ⚡ Feel free to explore my repositories and reach out if you'd like to collaborate!
+⚡ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
-<!--
-**Bankole614/Bankole614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
